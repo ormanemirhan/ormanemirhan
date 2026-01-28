@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Bilecik-City-Guide**
 
-- 🌱 I’m currently learning **C++ Full Course**
+- 🌱 I’m currently learning **.NET Core and Flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ormanemirhan](https://github.com/ormanemirhan)
 
